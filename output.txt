@@ -1,0 +1,99 @@
+Welcome to the game of Tic-Tac-Toe!
+
+As per the board below, you will enter a number corresponding with the place you would like to fill.
+
+0|1|2
+-----
+3|4|5
+-----
+6|7|8
+
+Would you like to go first [Y/N]? adakdals;d
+
+Please enter a valid character: 232980483209580395809325
+
+Please enter a valid character: -423423424
+
+Please enter a valid character: y
+It's your turn!
+
+Select a number to represent your move [0-8]: 5
+ | |
+-----
+ | |X
+-----
+ | |
+
+It's the computer's turn!
+
+ | |
+-----
+ |O|X
+-----
+ | |
+
+It's your turn!
+
+Select a number to represent your move [0-8]: -5
+
+Please try again [0-8]: m
+
+Please try again [0-8]: 1
+ |X|
+-----
+ |O|X
+-----
+ | |
+
+It's the computer's turn!
+
+O|X|
+-----
+ |O|X
+-----
+ | |
+
+It's your turn!
+
+Select a number to represent your move [0-8]: 8
+O|X|
+-----
+ |O|X
+-----
+ | |X
+
+It's the computer's turn!
+
+O|X|O
+-----
+ |O|X
+-----
+ | |X
+
+It's your turn!
+
+Select a number to represent your move [0-8]: 6
+O|X|O
+-----
+ |O|X
+-----
+X| |X
+
+It's the computer's turn!
+
+O|X|O
+-----
+ |O|X
+-----
+X|O|X
+
+It's your turn!
+
+Select a number to represent your move [0-8]: 3
+O|X|O
+-----
+X|O|X
+-----
+X|O|X
+
+Game over! Looks like we have a tie!
